@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+
+    <color name="pink_0">#FFAB73</color>
+    <color name="pink_1">#FFAEC0</color>
+    <color name="beach_1">#FFD384</color>
+    <color name="beach_0">#FFF9B0</color>
 </resources>

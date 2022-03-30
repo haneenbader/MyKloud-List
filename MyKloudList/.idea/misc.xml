@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/MyKloud-List/MyKloudList/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyKloud-List/MyKloudList/app/src/main/res/drawable/ic_baseline_add.xml" value="0.2115" />
+        <entry key="..\:/MyKloud-List/MyKloudList/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="..\:/MyKloud-List/MyKloudList/app/src/main/res/drawable/ic_baseline_minimize_24.xml" value="0.2115" />
+        <entry key="..\:/MyKloud-List/MyKloudList/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/MyKloud-List/MyKloudList/app/src/main/res/layout/fragment_task_item.xml" value="0.2553191489361702" />
+        <entry key="..\:/MyKloud-List/MyKloudList/app/src/main/res/layout/item_layout.xml" value="0.5162907268170426" />
         <entry key="..\:/Users/Malhi/AndroidStudioProjects/MyKloudList/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
       </map>
     </option>
